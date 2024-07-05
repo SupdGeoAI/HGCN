@@ -30,3 +30,9 @@ python SZ_train.py --seed 30 --epochs 400 --k-fold 30 --train_size 0.7
 ###############################  London  ################################
 python LD_train.py --seed 30 --epochs 400 --k-fold 30 --train_size 0.7
 ```
+
+## 4. Data links
+
+London: https://pan.baidu.com/s/19d-8LKsgDmoY45XSeOHIvA (vrw8)
+
+Shenzhen: https://pan.baidu.com/s/1eQ12lWjHrT2D8o66WTP6FA (wf0t)
